@@ -1,5 +1,5 @@
 <meta>
-	<author="thisdp" name="MTA Lua DFF Loader" />
+	<info author="thisdp" name="MTA Lua DFF Loader" />
 	<script src="client.lua" type="client" />
 	<file src="rectangle.dff" type="client" />
 	<file src="rectangle.txd" type="client" />
